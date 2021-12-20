@@ -41,7 +41,7 @@ I am an enthusiastic learner 👨‍💻, artist🌈 and a strong willed individ
 <br>
 
 <div align="center">
-### Make sure to  Show some ❤️ on the repositories!
+Check out my work in my repositories!❤️
 
 
 ## 👨‍💻 Languages and Tools :
@@ -72,9 +72,7 @@ I am an enthusiastic learner 👨‍💻, artist🌈 and a strong willed individ
                 src="https://user-images.githubusercontent.com/76916192/128778572-5d1e1ce8-d3ec-4b71-b2e5-d99f8125725d.png"
                 alt="photoshop" width="60" height="60" /> </a> <a href="https://www.python.org" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="60" height="60" /> </a> <a href="https://sass-lang.com" target="_blank"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-                width="60" height="60" /> </a></a> <a href="https://unity.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/76916192/128914549-908378d6-92c4-47d7-af8b-111c3ab46b70.png" alt="unity" width="60" height="60" /> </a>  </p>
+                alt="python" width="60" height="60" /> </a> <a href="https://unity.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/76916192/128914549-908378d6-92c4-47d7-af8b-111c3ab46b70.png" alt="unity" width="60" height="60" /> </a>  </p>
 
 </body>
 <!--
