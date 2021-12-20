@@ -1,4 +1,3 @@
-### Hi there 👋
 ![github-photoshop](https://user-images.githubusercontent.com/76916192/128660283-744beb22-4160-4d07-8f9c-db8c2c38f8bc.png)
 
 
@@ -48,8 +47,7 @@ I am an enthusiastic learner 👨‍💻, artist🌈 and a strong willed individ
 ## 👨‍💻 Languages and Tools :
 <h3 align="center">Languages and Tools:</h3><p align="center"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://user-images.githubusercontent.com/76916192/128778717-0fc938f7-6020-4702-8be4-4183e7b224dc.png"
                 alt="android" width="60" height="60" /></a> <a href="https://developer.android.com/studio" target="_blank"><img src="https://user-images.githubusercontent.com/76916192/128779334-6eeace79-f5d8-48a8-8ab8-2f58758fe670.png"
-                alt="android" width="60" height="60" /></a> <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
-                width="60" height="60" /> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img
+                alt="android" width="60" height="60" /></a>  <a href="https://www.cprogramming.com/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
                 width="60" height="60" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -76,7 +74,7 @@ I am an enthusiastic learner 👨‍💻, artist🌈 and a strong willed individ
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                 alt="python" width="60" height="60" /> </a> <a href="https://sass-lang.com" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-                width="60" height="60" /> </a><a href="https://threejs.org/" target="_blank"><img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="sass"   width="60" height="60" /> </a> <a href="https://unity.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/76916192/128914549-908378d6-92c4-47d7-af8b-111c3ab46b70.png" alt="unity" width="60" height="60" /> </a>  <a href="https://www.blender.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/blender_103868.png" alt="unity" width="60" height="60" /> </a></p>
+                width="60" height="60" /> </a></a> <a href="https://unity.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/76916192/128914549-908378d6-92c4-47d7-af8b-111c3ab46b70.png" alt="unity" width="60" height="60" /> </a>  </p>
 
 </body>
 <!--
