@@ -11,14 +11,14 @@ I am an enthusiastic learner 👨‍💻, artist🌈 and a strong willed individ
 
 
 ![Age](https://img.shields.io/badge/AGE-20-blue)
-![FOCUS](https://img.shields.io/badge/FOCUS-FrontEnd-brightgreen)
+![FOCUS](https://img.shields.io/badge/FOCUS-Learning-brightgreen)
 ![LIVING](https://img.shields.io/badge/LIVING-KOLKATA-3c9)
 <img src="https://komarev.com/ghpvc/?username=anurupadas7&label=Profile%20views&color=0e75b6&style=flat" alt="anurupadas7" />
 <img width="35%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/76916192/128661754-043882ba-a2b6-49c6-bb30-6c541f313164.gif" />
 
 
 - 🚀 I am currently learning 
-- 👯 Looking to collaborate on projects on Basic Web Dev 
+- 🔭 Looking to collaborate on projects on Basic Web Dev 
 - ⚡ "STAY HUNGRY, STAY FOOLISH" -Steve Jobs
 <h3 align="left"> 📫 Connect with me: </h3><p align="left">
   
