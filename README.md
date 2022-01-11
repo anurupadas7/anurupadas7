@@ -6,7 +6,8 @@
 
 
   
-I am an enthusiastic learner 👨‍💻, artist🌈 and a strong willed individual🎯 who is pursuing her B.Tech in Computer Science Engineering. I like to learn, explore and test my limits. I'm interested in Web Development and Android App Development📊.
+I am an enthusiastic learner 👨‍💻 and a strong willed individual🎯 who is pursuing her B.Tech in Computer Science Engineering. I like to learn, explore and test my limits. I'm interested in Web Development and Android App Development📊.
+What I may lack in skills, I can make up in my determination to learn.
 
 
 
