@@ -23,11 +23,15 @@ What I may lack in skills, I can make up in my determination to learn.
 - ⚡ "STAY HUNGRY, STAY FOOLISH" -Steve Jobs
 <h3 align="left"> 📫 Connect with me: </h3><p align="left">
   
- 
- <a href="https://www.hackerrank.com/anurupa_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anurupa_das" height="30" width="40" /></a>  <a href="https://www.linkedin.com/in/anurupa-das-01bb121b8/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" alt="anurupadas" height="40" width="40" /></a>
-<a href="https://instagram.com/anurupa_das_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurupa_das_official" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anurupa-das-01bb121b8/" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png" alt="anurupadas" height="40" width="40" /></a>
+
 <a href="https://www.codechef.com/users/anurupa_das" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/76916192/128777319-45e6615c-9249-42b3-922c-5c7bec46f156.png" alt="anurupa_das" height="40" width="110" /></a>
+<img align="center" src="https://user-images.githubusercontent.com/76916192/128777319-45e6615c-9249-42b3-922c-5c7bec46f156.png" alt="anurupa_das" height="40" width="110" /></a>
+
+<a href="https://www.hackerrank.com/anurupa_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anurupa_das" height="30" width="40" /></a>  
+  
+<a href="https://instagram.com/anurupa_das_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurupa_das_official" height="30" width="40" /></a>
+
 
 </p>
 
